@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Laporta</h1>
-<h3 align="center">I'm studying FullStack Web Development at <a href="https://www.betrybe.com/" target="blank">Trybe!</a></h3>
+<h3 align="center">I'm a brazilian Web Development student at <a href="https://www.betrybe.com/" target="blank">Trybe!</a></h3>
 
+- seedling I’m currently learning Backend.
 - 📫 How to reach me **lui.laporta99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
