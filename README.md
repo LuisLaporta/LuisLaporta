@@ -2,6 +2,7 @@
 <h3 align="center">I'm a brazilian Web Development student at <a href="https://www.betrybe.com/" target="blank">Trybe!</a></h3>
 
 - :seedling: I’m currently learning Backend.
+- :speech_balloon: Ask me about JavaScript, TypeScript, React and CSS.
 - 📫 How to reach me **lui.laporta99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
