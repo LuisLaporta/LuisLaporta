@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Laporta</h1>
-<h3 align="center">I'm studying FullStack Web Development at Trybe!</h3>
+<h3 align="center">I'm studying FullStack Web Development at <a href="https://www.betrybe.com/" target="blank">Trybe!</a></h3>
 
 - 📫 How to reach me **lui.laporta99@gmail.com**
 
