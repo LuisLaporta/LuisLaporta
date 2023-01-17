@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Laporta</h1>
-<h3 align="center">I'm a brazilian Web Development student at <a href="https://www.betrybe.com/" target="blank">Trybe!</a></h3>
+<h3 align="center">I'm a brazilian Front-end Web Development</h3>
 
-- :seedling: I’m currently learning Backend.
+- :seedling: I’m currently learning Backend at <a href="https://www.betrybe.com/" target="blank">Trybe!</a>.
 - :speech_balloon: Ask me about JavaScript, TypeScript, React and CSS.
 - 📫 How to reach me **lui.laporta99@gmail.com**
 
