@@ -4,7 +4,7 @@
 - :telescope: I’m currently looking for a job.
 - :fire: Student in Web Developer in <a href="https://www.betrybe.com/" target="blank">Trybe!</a>
 - :speech_balloon: Ask me about JavaScript, TypeScript, React and CSS.
-- 📫 How to reach me **lui.laporta99@gmail.com**
+- 📫 How to reach me **luislaporta.trabalho@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
